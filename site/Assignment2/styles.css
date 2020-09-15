@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+h1 {
+	font-family: Gadget, sans-serif;
+	color: white;
+}
+body {
+	background-color: #CAEBF2;
+}
+#chicken-label{
+	border:1px solid black;
+	text-align: center;
+	width:25%;
+	font-family: Gadget, sans-serif;
+	font-size: 150%;
+}
